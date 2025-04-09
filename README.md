@@ -1,5 +1,10 @@
-![Screenshot 2025-04-09 192458](https://github.com/user-attachments/assets/2505a659-787a-4447-a7a7-f85893b8fced)
-![Screenshot 2025-04-09 192424](https://github.com/user-attachments/assets/4890f830-446f-4366-b494-fd52b26a06ee)
-![Screenshot 2025-04-09 192408](https://github.com/user-attachments/assets/11cec6c7-6400-4692-9f19-eb4295668551)
-![Screenshot 2025-04-09 192512](https://github.com/user-attachments/assets/a1413505-d90a-4097-b965-d3bb7a4d0b07)
-![Screenshot 2025-04-09 192531](https://github.com/user-attachments/assets/ce45a8cf-a27e-4d3f-adde-4e134ddc8aba)
+MAIN PAGE -
+![Screenshot 2025-04-09 192458](https://github.com/user-attachments/assets/d0b7229d-8837-441f-9172-dc31adcc9c7e)
+SIGN UP PAGE - 
+![Screenshot 2025-04-09 192424](https://github.com/user-attachments/assets/50f482e5-2910-4a04-8b94-542bcbea52a5)
+LOGIN PAGE - 
+![Screenshot 2025-04-09 192408](https://github.com/user-attachments/assets/a6c30bc6-1a07-4369-a395-c44d0f0f8d51)
+ADD BOOK - 
+![Screenshot 2025-04-09 192512](https://github.com/user-attachments/assets/3e6d9884-5c77-4b07-b54f-50a51dab357e)
+EDIT BOOK - 
+![Screenshot 2025-04-09 192531](https://github.com/user-attachments/assets/06a15f08-5e0f-486b-b8c0-4f1b2e580cf4)
